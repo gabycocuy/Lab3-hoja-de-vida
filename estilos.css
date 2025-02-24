@@ -1,0 +1,114 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    background-color: white;
+  }
+  
+  .datos {
+    max-width: 1600px;
+    background-color: #fff;
+    padding: 20px 40px;
+    display: flex;
+    flex-direction: column;
+    margin: 0 25px 0 25px;
+
+  }
+  
+  .contacto {
+    display: flex;
+    justify-content: space-between;
+    font-size: 14px;
+    border-left: 20px solid #f8c9a5;
+  }
+  
+  .mega-contenedor {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    border-left: 20px solid #f8c9a5;
+    text-align: left;
+  }
+  
+  .profile {
+    width: 90%;
+    font-size: 18px;
+    margin-left: 25px;
+  }
+  
+  .profile p {
+    font-size: 14px;
+    line-height: 1.5;
+    color: black;
+    text-align: justify;
+  }
+  
+  .name {
+    width: 45%;
+    text-align: right;
+  }
+  
+  .name h1 {
+    font-size: 60px;
+    font-weight: bold;
+    text-align: left;
+    margin-left: 25px;
+  }
+  
+  .work {
+    background-color: #f8c9a5;
+    padding: 10px 110px 10px 10px;
+    font-size: 35px;
+    font-weight: bold;
+  }
+  .horizontal{
+    width: 95%;
+    height: 2px;
+    background-color: black;
+  }
+  .education{
+    width: 100%;
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+  .education-element{
+    padding: 25px;
+    width: 50%;
+  }
+  .education-container{
+    display: flex;
+  }
+  .borde{
+    border-left: 3px solid black;
+  }
+  .experience{
+    width: 100%;
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+  .experience-element{
+    padding: 25px;
+    width: 50%;
+  }
+  .experience-container{
+    display: flex;
+  }
+  .borde{
+    border-left: 3px solid black;
+  }
+  .experience2{
+    width: 100%;
+    padding-left: 50px;
+    padding-right: 50px;
+    }
+  .experience-element2{
+    padding: 25px;
+    width: 50%;
+  }
+  .experience-container2{
+    display: flex;
+  }
+  .borde2{
+    border-left: 3px solid black;
+  }
+  
+  
